@@ -5,4 +5,4 @@ if letra == 'A':
 elif letra == 'B':
   print("Você Selecionou a Opção B")
 else:
-  ("Essa Opção não esta disponivel")
+  print("Essa Opção não esta disponivel")
