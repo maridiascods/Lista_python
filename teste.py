@@ -37,4 +37,5 @@ if resposta2 == "b":
     pontos = pontos + 1
 else:
     print("você errou ❌")
+    print("Fim do questionario")
 print(f"Total de pontos: {pontos}")
